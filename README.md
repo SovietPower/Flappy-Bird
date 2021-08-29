@@ -20,7 +20,9 @@
 
 **运行方式：**
 
-命令行中输入`python`后加`main.py所在路径`，如`python "F:\Codes\Python\Flappy Bird v1.0\main.py"`。
+运行目录中的`main.py`即可。
+
+具体：命令行中输入`python`后加`main.py所在路径`，如`python "F:\Codes\Python\Flappy Bird v1.0\main.py"`。
 
 **道具说明：**
 
