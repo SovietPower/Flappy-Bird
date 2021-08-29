@@ -1,0 +1,2 @@
+Player's name: new name
+Player's top score: 48.14
